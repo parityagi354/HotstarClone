@@ -1,2 +1,2 @@
 # HotstarClone
-Created with CodeSandbox
+Created with VisualStudio
